@@ -1,0 +1,5 @@
+# Ignore Compile output folder
+dist/
+
+# Ignore Deepest Darkest Secrets
+src/config/constants.ts
