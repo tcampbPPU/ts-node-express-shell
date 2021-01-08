@@ -1,5 +1,8 @@
 # Ignore Compile output folder
 dist/
 
+# Ignore Packages
+node_modules/
+
 # Ignore Deepest Darkest Secrets
 src/config/constants.ts
